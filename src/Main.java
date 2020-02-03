@@ -7,4 +7,7 @@ public class Main {
     public static void printName(){
         System.out.println("name");
     }
+    public static void printNames(){
+        System.out.println("names");
+    }
 }
